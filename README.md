@@ -1,5 +1,10 @@
 ## Rotary_Angle_Sensor
-![image](https://www.seeedstudio.com/s/Grove-Rotary-Angle-Sensor(P)-p-1242.html)
+
+
+![](https://statics3.seeedstudio.com/images/product/GroveRotaryP.jpg)
+
+[Grove - Rotary Angle Sensor(P)
+](https://www.seeedstudio.com/s/Grove-Rotary-Angle-Sensor(P)-p-1242.html)
 
 The rotary angle sensor produces analog output between 0 and Vcc (5V DC with Seeeduino) on its D1 connector. The D2 connector is not used. The angular range is 300 degrees with a linear change in value. The resistance value is 10k ohms, perfect for Arduino use. This may also be known as a “potentiometer ”.
 
